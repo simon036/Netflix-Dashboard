@@ -95,7 +95,7 @@ These allow users to dynamically explore the Netflix catalog.
 
 ## 📷 Dashboard Preview
 
-[Add screenshots of your Power BI dashboard here]
+[https://github.com/simon036/Netflix-Dashboard/blob/main/images/netflix.png]
 
 ## 💡 Business Recommendations
 
