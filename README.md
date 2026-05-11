@@ -1,5 +1,5 @@
-📺 Netflix Content Analytics Dashboard
-📌 Project Overview
+###📺 Netflix Content Analytics Dashboard
+##📌 Project Overview
 This project presents an interactive analytics dashboard built using Power BI to analyze Netflix's content library. The goal is to uncover content trends, identify distribution patterns, and support data-driven insights into Netflix's programming strategy.
 
 🎯 Problem Statement
